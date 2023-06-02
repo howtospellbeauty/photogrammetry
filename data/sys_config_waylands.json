@@ -1,0 +1,60 @@
+{
+    "axis_range": {
+        "min": [
+            -65,
+            -65,
+            0,
+            -5,
+            0
+        ],
+        "max": [
+            65,
+            65,
+            230,
+            45,
+            360
+        ]
+    },
+    "calibration_axis_range": {
+        "min": [
+            -165,
+            -35,
+            0,
+            0,
+            0
+        ],
+        "max": [
+            65,
+            45,
+            235,
+            45,
+            360
+        ]
+    },
+    "camera_offsets": {
+        "0": 25,
+        "1": -10,
+        "system": 8.36
+    },
+    "nominal_loc": [
+        [
+            0,
+            0,
+            90,
+            30,
+            0
+        ]
+    ],
+    "xyz_offset": [
+        [
+            357,
+            -1,
+            175
+        ]
+    ],
+    "working_distance": 435,
+    "camera_names": [
+        "camera_00",
+        "camera_01"
+    ]
+}

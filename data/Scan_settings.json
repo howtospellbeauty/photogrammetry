@@ -1,0 +1,26 @@
+{
+    "Low": {
+        "Minimum_elevation": 45,
+        "Maximum_elevation": 45,
+        "Elevation_steps": 1,
+        "Rotation_steps": 30
+    },
+    "Medium": {
+        "Minimum_elevation": 38,
+        "Maximum_elevation": 50,
+        "Elevation_steps": 2,
+        "Rotation_steps": 30
+    },
+    "High": {
+        "Minimum_elevation": 38,
+        "Maximum_elevation": 52,
+        "Elevation_steps": 3,
+        "Rotation_steps": 50
+    },
+    "Ultra": {
+        "Minimum_elevation": 38,
+        "Maximum_elevation": 52,
+        "Elevation_steps": 3,
+        "Rotation_steps": 60
+    }
+}
